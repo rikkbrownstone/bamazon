@@ -7,10 +7,9 @@ It needs
 * JavaScript
 
 You need to install
- *cli-tabl
+ *cli-table
  * inquirer
  * mysql
  
  These are the working images
- ![GitHub Logo](images1.png)
-Format: ![Alt Text](url)
+ 
