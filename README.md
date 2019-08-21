@@ -7,7 +7,7 @@ It needs
 * JavaScript
 
 You need to install
- *cli-table
+ * cli-table
  * inquirer
  * mysql
  
